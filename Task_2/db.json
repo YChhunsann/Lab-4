@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "sku": "8840000000001",
+        "name": "Ultraboost Light Running Shoes",
+        "price": 190,
+        "rating": 4.7,
+        "image": "image/image.png"
+      },
+      {
+        "sku": "8840000000002",
+        "name": "Colorblock Track Jacket",
+        "price": 90,
+        "rating": 4.6,
+        "image": "image/image1.png"
+      }
+    ]
+  }
+  
